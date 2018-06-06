@@ -1,4 +1,8 @@
-# mentorship
+# mentorship (for and by all levels of development)
+
+## Platform
+
+* **Find and give mentorship here**: https://community.vancouvertech.com/c/programming/mentorship
 
 ## Origin
 
