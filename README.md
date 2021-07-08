@@ -1,4 +1,8 @@
-# mentorship
+# mentorship (for and by all levels of development)
+
+## Platform
+
+* **Find and give mentorship here**: https://community.vancouvertech.com/c/programming/mentorship
 
 ## Origin
 
@@ -8,6 +12,12 @@
 
 * Set up a mentorship community in Vancouver
 * Create a structure of mentorship for and by all levels of development
+* Having people in the community to sign up to be mentors (in either type), mentees, or both
+
+## Types of mentorship
+
+1. career mentorship - defining a “compass”, knowing where to go. That’s likely to be answered by running ad-hoc interviews of people farther along the intended path who will have more experience there.
+2. technical mentorship - moving forward faster. Having an ongoing mentor / mentee relationship is likely to be best there.
 
 ## Discussion
 
